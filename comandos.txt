@@ -1,0 +1,14 @@
+## git clone
+pasandole por parametro una url, podemos clonar un proyecto en el directorio local que estemos
+
+## git add 
+prepara los archivos que se modificaron o añadieron moviendolos a el staging area, se tiene que hacer antes de guardarlos en git al hacer commit
+
+## git commit
+guarda permanentemente en una snapshot (como una version del proyecto) los archivos que guardamos anteriormente con el git add en mi repo local
+
+## git checkout -b
+le indica a git en que rama quiero aplicar cambios, pero en el caso de que la rama que quiera trabajar no exista, la crea y nos mete a esa rama
+
+## git push
+sube los commits del repositorio local al repositorio en la nube
