@@ -5,3 +5,4 @@ Rogelio Emiliano Avila Rodriguez
 github es una plataforma en la nube que funciona como una bodega y red social para desarrolladores
 donde podemos guardar proyectos, el historial de versiones o cambios en el proyecto (que es el control de versiones)
 y colaborar con otros remotamente
+cambio para pullrequest
